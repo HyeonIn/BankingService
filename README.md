@@ -7,6 +7,11 @@
 ### 프로젝트 개요 
 - GUI를 기반으로 실시간 입출금이 가능하고, 계좌 거래내역을 보여주는 간단한 은행 서비스 구현 
 
+#### 기술
+- 개발 언어 : Python3
+- 라이브러리 : Django, MySQL
+
+
 ## Contact
 ``` Email : gusdlsdlek@kookmin.ac.kr ```
 
