@@ -7,9 +7,6 @@
 ### 프로젝트 개요 
 - GUI를 기반으로 실시간 입출금이 가능하고, 계좌 거래내역을 보여주는 간단한 은행 서비스 구현 
 
-
-## 참조(Reference)
-
 ## Contact
 ``` Email : gusdlsdlek@kookmin.ac.kr ```
 
