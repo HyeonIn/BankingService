@@ -11,6 +11,9 @@
 - 개발 언어 : Python3
 - 라이브러리 : Django, MySQL
 
+#### Reference
+- Usecase diagram with draw.io
+
 
 ## Contact
 ``` Email : gusdlsdlek@kookmin.ac.kr ```
