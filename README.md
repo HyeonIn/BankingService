@@ -12,7 +12,7 @@
 - 라이브러리 : Django, MySQL
 
 #### Reference
-- Usecase diagram with draw.io
+- Usecase diagram with [draw.io](draw.io)
 
 
 ## Contact
