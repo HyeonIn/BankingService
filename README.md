@@ -12,8 +12,8 @@
 - 라이브러리 : Django, MySQL
 
 #### Reference
-- Usecase diagram with <draw.io>
-- IDE with <ide.goorm.io>
+- Usecase diagram : <http://draw.io>
+- IDE : <http://ide.goorm.io>
 
 ## Contact
 ``` Email : gusdlsdlek@kookmin.ac.kr ```
