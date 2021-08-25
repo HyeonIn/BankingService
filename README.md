@@ -13,7 +13,7 @@
 
 #### Reference
 - Usecase diagram with [draw.io](draw.io)
-- IDE with [ide.goorm.io](ide.goorm.io)
+- IDE with [goorm](ide.goorm.io)
 
 ## Contact
 ``` Email : gusdlsdlek@kookmin.ac.kr ```
